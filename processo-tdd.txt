@@ -1,0 +1,6 @@
+Ciclo TDD com Testes Funcionais e de Unidade:
+1. Escreve-se um Teste Funcional (especificação do ponto de vista do usuário) que falha.
+2. Para implementar esse comportamento, desce-se para o nível de Teste de Unidade (desenvolvedor).
+3. Escreve-se um Teste de Unidade que falha (Red).
+4. Escreve-se o código mínimo da aplicação para fazer o teste de unidade passar (Green).
+5. Refatora-se o código e repete-se o processo até que a funcionalidade completa do Teste Funcional passe.
